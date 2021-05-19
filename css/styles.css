@@ -1,0 +1,9 @@
+body {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.is-active {
+  background-color: rgb(65, 65, 245);
+  color: rgb(255, 255, 255);
+}
